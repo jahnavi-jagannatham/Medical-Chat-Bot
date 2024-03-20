@@ -10,5 +10,9 @@ conda create -n medchatbot python=3.9 -y
 conda create -n medchatbot python= 3.9 -
 ```
 
+```bash
+pip install -r requirement.txt
+```
+
 
 
